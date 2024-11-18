@@ -6,6 +6,8 @@ This is the README file for this Class 2 practice repo.
 
 Class 2's exercise calls for filling in the sections of the `README.md` file with brief descriptions.
 
+This text now indicates that I've gone into a branch and am adding text to the README.md.
+
 ## Getting Started
 
 ### Dependencies
